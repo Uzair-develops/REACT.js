@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d5b8b8 !important;
+    color: #333;
+    
+}
+nav {
+    background-color: #a44d4d !important;
+    color: #fff;
+    padding: 10px;
+    text-indent: 10px;
+    word-spacing: 10px;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+   
+}
+.mp{
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    border: #333;
+    gap: 20px;
+    padding: 20px;
+    flex-wrap: wrap;
+    background-color: rgb(142, 86, 86);
+    margin: 200px;
+    margin-top: 20px !important;
+    border-radius: 20px;
+    
+    
+}
