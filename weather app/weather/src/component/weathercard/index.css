@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.card{
+    border: 2px solid black !important;
+    padding: 10px;
+    /* margin: 10px; */
+    border-radius: 10px;
+    background-color: #f0f8ff !important;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3);
+    text-align: center;
+    display: inline-block !important;
+    width: 100%;
+    
+}
+
+.wg{
+    display: grid;
+    justify-content: center;
+    font-weight: bold;
+}
+.ab{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    display: flex;
+}
